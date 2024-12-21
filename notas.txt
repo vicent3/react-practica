@@ -1,0 +1,26 @@
+React es una libreria, declarativa, eficiente, server side con node
+tiene una mescla de jsx = js + xml
+    React es una biblioteca de JavaScript
+    de código abierto utilizada para construir
+    interfaces de usuario, especialmente en aplicaciones web.
+    Permite crear componentes reutilizables y gestionar el 
+    estado de la interfaz de forma eficiente. Fue desarrollada
+    por Facebook.
+
+Que es babel
+    nos permite usar caracteristicas nuevas de js
+    En el desarrollo de software, Babel es una herramienta popular
+    que se utiliza principalmente para transpilar código 
+    JavaScript. Su función principal es convertir código escrito
+    en versiones más nuevas de JavaScript 
+    (como ECMAScript 6+ o versiones posteriores) 
+    a versiones más antiguas, para asegurar la compatibilidad 
+    con navegadores que no soportan las características más 
+    recientes del lenguaje. Esto permite a los desarrolladores 
+    escribir código moderno sin preocuparse por la compatibilidad
+    con todos los navegadores.
+
+    Babel también se usa para convertir JSX 
+    (una sintaxis especial de JavaScript usada en React) 
+    en JavaScript estándar, facilitando el desarrollo de 
+    aplicaciones web.
